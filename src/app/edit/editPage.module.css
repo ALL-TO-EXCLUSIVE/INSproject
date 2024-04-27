@@ -1,0 +1,29 @@
+.editButton{
+    padding:8px 13px;
+    border: none;
+}
+.table{
+    font-family: sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 24px;
+    width: 100%;
+}
+.container{
+    padding: 5vw 0 3vw 0;
+}
+.th{
+    padding: 10px;
+    font-size: 32px;
+    font-weight: 500;
+    color: white;
+    background: rgba(255, 115, 0, 0.779);
+
+}
+.tr{
+
+}
+.td{
+    /* background: #fafafa; */
+    padding: 10px 20px;
+}
